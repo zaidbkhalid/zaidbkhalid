@@ -13,34 +13,53 @@ I like building things that actually do something useful. Not just notebooks tha
 
 ---
 
-## What I've built
+## What I know
 
-A mix of AI/ML, robotics, and hardware — roughly in reverse order of how proud I am:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge&logoColor=white)
 
-| Project | What it does | Stack |
-|---|---|---|
-| Real-Time Object Detection | YOLOv8 retail SKU counter, 80+ items/shelf, live alerting | YOLOv8, Roboflow, Pandas |
-| Higgs Boson Classifier | Neural net hitting 0.91 ROC-AUC on particle collision data | TensorFlow, Batch Norm, Dropout |
-| Sentiment Analysis Engine | Classifies 50k+ IMDB reviews with N-gram + Naive Bayes | Python, NLTK, Scikit-learn |
-| Real Estate EDA | Pricing drivers + market trends from Zameen.com listings | Pandas, Seaborn, Matplotlib |
-| 4-DOF Robotic Arm | Autonomous pick & place via inverse kinematics + CV | Python, OpenCV, Kinematics |
-| Dual-Copter Control | PID loop for stable flight under disturbance, hardware tested | MATLAB, Simulink |
-| Maze-Solving Robot | Tiva C + PID + infrared/ultrasonic sensors | C, Embedded Systems |
-| ROS2 Robot Simulation | Differential drive bot navigating static environments | ROS2, Gazebo |
-| Hospital DB System | Normalized relational DB with CTEs + window functions | SQL, ERD Modeling |
-| Habibi Showdown | 2-player FPGA fighting game with VGA display | Verilog, FPGA |
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## What I know
+## What I've built
 
-```
-Languages      Python · C · C++ · SQL · MATLAB · Verilog
-AI / ML        TensorFlow · PyTorch · Scikit-learn · YOLOv8 · LangChain · CrewAI
-Data           Pandas · NumPy · Seaborn · Matplotlib · Power BI
-Robotics       ROS2 · Gazebo · PID Control · Embedded Systems · Tiva C
-Tools          Linux · Git · PSpice · Simulink · Roboflow · Cursor
-```
+| Project | What it does | Stack |
+|---|---|---|
+| 🤖 Real-Time Object Detection | YOLOv8 retail SKU counter, 80+ items/shelf, live alerting | YOLOv8, Roboflow, Pandas |
+| ⚛️ Higgs Boson Classifier | Neural net hitting 0.91 ROC-AUC on particle collision data | TensorFlow, Batch Norm, Dropout |
+| 🎬 Sentiment Analysis Engine | Classifies 50k+ IMDB reviews with N-gram + Naive Bayes | Python, NLTK, Scikit-learn |
+| 🏠 Real Estate EDA | Pricing drivers + market trends from Zameen.com listings | Pandas, Seaborn, Matplotlib |
+| 🦾 4-DOF Robotic Arm | Autonomous pick & place via inverse kinematics + CV | Python, OpenCV, Kinematics |
+| 🚁 Dual-Copter Control | PID loop for stable flight under disturbance, hardware tested | MATLAB, Simulink |
+| 🌀 Maze-Solving Robot | Tiva C + PID + infrared/ultrasonic sensors | C, Embedded Systems |
+| 🤖 ROS2 Robot Simulation | Differential drive bot navigating static environments | ROS2, Gazebo |
+| 🏥 Hospital DB System | Normalized relational DB with CTEs + window functions | SQL, ERD Modeling |
+| 🎮 Habibi Showdown | 2-player FPGA fighting game with VGA display | Verilog, FPGA |
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaidbinkhalid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidbinkhalid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+</p>
 
 ---
 
